@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Sneha-red)](https://www.youtube.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Sneha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sneha-sural-34a09a248/)](https://www.linkedin.com/in/sneha-sural-34a09a248/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/19652363/sneha-sural-)
 
