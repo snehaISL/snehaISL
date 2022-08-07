@@ -5,8 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/19652363/sneha-sural-)
 
 I am
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+currently pursuing my B.E. in Information Science and Engineering.
+The crossover between design and programming has always been of interest to me. I am currently a Full Stack Developer intern at Edureka. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/snehaISL/count.svg)
