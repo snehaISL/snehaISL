@@ -3,7 +3,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sneha Sural-green)](https://www.linkedin.com/in/sneha-sural-34a09a248/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sneha Sural-yellow)](https://stackoverflow.com/users/19652363/sneha-sural)
+https://stackoverflow.com/users/19652363/sneha-sural
 
 I am
 Full Stack Solution Architect
